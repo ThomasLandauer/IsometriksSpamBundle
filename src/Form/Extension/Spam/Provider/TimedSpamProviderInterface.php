@@ -1,6 +1,6 @@
 <?php
 
-namespace Isometriks\Bundle\SpamBundle\Form\Extension\Spam\Provider;
+namespace Isometriks\SpamBundle\Form\Extension\Spam\Provider;
 
 interface TimedSpamProviderInterface
 {
