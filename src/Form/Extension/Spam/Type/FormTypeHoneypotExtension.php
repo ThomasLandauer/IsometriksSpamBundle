@@ -1,6 +1,6 @@
 <?php
 
-namespace Isometriks\Bundle\SpamBundle\Form\Extension\Spam\Type;
+namespace Isometriks\SpamBundle\Form\Extension\Spam\Type;
 
 use Isometriks\Bundle\SpamBundle\Form\Extension\Spam\EventListener\HoneypotValidationListener;
 use Symfony\Component\Form\AbstractTypeExtension;

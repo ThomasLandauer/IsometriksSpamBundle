@@ -1,6 +1,6 @@
 <?php
 
-namespace Isometriks\Bundle\SpamBundle\Tests\fixtures;
+namespace Isometriks\SpamBundle\Tests\fixtures;
 
 use Isometriks\Bundle\SpamBundle\IsometriksSpamBundle;
 use Symfony\Bundle\FrameworkBundle\FrameworkBundle;

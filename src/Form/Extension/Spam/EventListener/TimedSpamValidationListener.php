@@ -1,6 +1,6 @@
 <?php
 
-namespace Isometriks\Bundle\SpamBundle\Form\Extension\Spam\EventListener;
+namespace Isometriks\SpamBundle\Form\Extension\Spam\EventListener;
 
 use Isometriks\Bundle\SpamBundle\Form\Extension\Spam\Provider\TimedSpamProviderInterface;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
