@@ -1,6 +1,6 @@
 {
     "name": "isometriks/spam-bundle",
-    "description": "Provides spam protection for Symfony forms",
+    "description": "Spam protection for Symfony forms, using timed and honeypot prevention",
     "keywords": ["spam", "symfony", "form", "bundle"],
     "require": {
         "php": ">=7.4",
